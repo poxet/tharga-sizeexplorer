@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>SizeExplorer</id>
     <title>Size Explorer</title>
-    <version>#Version#</version>
+    <version>1.0.0</version>
     <authors>Daniel Bohlin</authors>
     <owners>Thargelion AB</owners>
     <language>en-US</language>
