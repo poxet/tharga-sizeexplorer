@@ -5,13 +5,13 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>SizeExplorer</id>
     <title>Size Explorer</title>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Daniel Bohlin</authors>
     <owners>Thargelion AB</owners>
     <language>en-US</language>
     <description>Tharga Size Explorer finds large files and folders to that you can free up disk space.</description>
     <projectUrl>https://github.com/poxet/tharga-sizeexplorer</projectUrl>
-    <tags>disk space size</tags>
+    <tags>disk space size admin</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/poxet/tharga-sizeexplorer/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

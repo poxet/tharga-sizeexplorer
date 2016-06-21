@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Tharga.SizeExplorer"
         xmlns:viewModels="clr-namespace:Tharga.SizeExplorer.Client.ViewModels"
         mc:Ignorable="d"
-        Title="Tharga Size Explorer" Height="350" Width="525">
+        Title="Size Explorer" Height="350" Width="525">
     <Window.DataContext>
         <viewModels:SizeExplorerViewModel />
     </Window.DataContext>
